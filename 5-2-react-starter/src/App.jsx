@@ -1,5 +1,5 @@
 import './App.css'
-import MyComponent from './components/StudentCard.jsx';
+import StudentCard from './components/StudentCard.jsx';
 
 function App() {
   return (
