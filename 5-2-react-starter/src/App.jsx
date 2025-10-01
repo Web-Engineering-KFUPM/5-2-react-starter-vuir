@@ -11,9 +11,9 @@ function App() {
 
       <main className="dashboard-main">
         <div className="cards-container">
-          <h1>Student Info</h1>
-          <StudentCard name="Hayat Alghamdi" id="202276840" dept="ICS"/>
-            <StudentCard name="Lama Alghamdi" id="202376840" dept="ICS"/>
+          <h1 style={{ color: "#667eea" }}>Student Info</h1>
+          <StudentCard name="Hayat Alghamdi" id="202276840" department="ICS"/>
+            <StudentCard name="Lama Alghamdi" id="202376840" department="ICS"/>
     
         </div>
       </main>

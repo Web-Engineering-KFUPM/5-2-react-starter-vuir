@@ -45,3 +45,15 @@
 }
 
 /* Add your custom styles below */
+.student-card h3 {
+  font-size: 1.3rem;
+  color: #2f3b69;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.student-card p {
+  font-size: 1rem;
+  color: #444;
+  margin: 0.2rem 0;
+}
