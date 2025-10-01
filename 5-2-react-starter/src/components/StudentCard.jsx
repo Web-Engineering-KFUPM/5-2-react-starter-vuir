@@ -8,3 +8,4 @@ function StudentCard({ name, id, department}){
         );
 }
   export default StudentCard;
+//no props yet
